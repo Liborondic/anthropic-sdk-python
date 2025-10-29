@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.72.1 (2025-10-29)
+
+Full Changelog: [v0.72.0...v0.72.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.72.0...v0.72.1)
+
+### Bug Fixes
+
+* **client:** close streams without requiring full consumption ([109b771](https://github.com/anthropics/anthropic-sdk-python/commit/109b77175c844c37e6e57899a732a0ba293a2942))
+
 ## 0.72.0 (2025-10-28)
 
 Full Changelog: [v0.71.1...v0.72.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.71.1...v0.72.0)
